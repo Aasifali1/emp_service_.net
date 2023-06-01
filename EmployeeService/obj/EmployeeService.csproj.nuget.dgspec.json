@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService\\EmployeeService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Core\\EmployeeService.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Core\\EmployeeService.Core.csproj",
+        "projectName": "EmployeeService.Core",
+        "projectPath": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Core\\EmployeeService.Core.csproj",
+        "packagesPath": "C:\\Users\\Aasif Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aasif Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Infrastructure\\EmployeeService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Infrastructure\\EmployeeService.Infrastructure.csproj",
+        "projectName": "EmployeeService.Infrastructure",
+        "projectPath": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Infrastructure\\EmployeeService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Aasif Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aasif Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Core\\EmployeeService.Core.csproj": {
+                "projectPath": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Core\\EmployeeService.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService\\EmployeeService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService\\EmployeeService.csproj",
+        "projectName": "EmployeeService",
+        "projectPath": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService\\EmployeeService.csproj",
+        "packagesPath": "C:\\Users\\Aasif Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aasif Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Core\\EmployeeService.Core.csproj": {
+                "projectPath": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Core\\EmployeeService.Core.csproj"
+              },
+              "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Infrastructure\\EmployeeService.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Aasif Ali\\source\\repos\\EmployeeService\\EmployeeService.Infrastructure\\EmployeeService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "Azure.Messaging.EventHubs": {
+              "target": "Package",
+              "version": "[5.9.1, )"
+            },
+            "Azure.Messaging.EventHubs.Processor": {
+              "target": "Package",
+              "version": "[5.9.1, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.16.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\bin\Debug\net6.0\EmployeeService.Infrastructure.deps.json
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\bin\Debug\net6.0\EmployeeService.Infrastructure.dll
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\bin\Debug\net6.0\EmployeeService.Infrastructure.pdb
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\bin\Debug\net6.0\EmployeeService.Core.dll
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\bin\Debug\net6.0\EmployeeService.Core.pdb
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\EmployeeService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\EmployeeService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\EmployeeService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\EmployeeService.Infrastructure.AssemblyInfo.cs
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\EmployeeService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\EmployeeService.Infrastructure.csproj.CopyComplete
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\EmployeeService.Infrastructure.dll
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\refint\EmployeeService.Infrastructure.dll
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\EmployeeService.Infrastructure.pdb
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\obj\Debug\net6.0\ref\EmployeeService.Infrastructure.dll
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\bin\Debug\net6.0\CitiesData.json
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Infrastructure\bin\Debug\net6.0\Data\CitiesData.json

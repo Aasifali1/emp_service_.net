@@ -1,0 +1,28 @@
+
+
+<div class="container">
+    <div class="row">
+        <h1>Employees List</h1>
+        <div class="col-6">
+            <table class="table mt-5">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">City</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let empl of employees; let i=index">
+                        <td>{{i+1}}</td>
+                        <td>{{empl.name}}</td>
+                        <td>{{empl.email}}</td>
+                        <td>{{empl.cityId}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

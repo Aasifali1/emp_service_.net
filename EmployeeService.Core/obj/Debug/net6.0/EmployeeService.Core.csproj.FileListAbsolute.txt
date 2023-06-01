@@ -1,0 +1,12 @@
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\bin\Debug\net6.0\EmployeeService.Core.deps.json
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\bin\Debug\net6.0\EmployeeService.Core.dll
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\bin\Debug\net6.0\EmployeeService.Core.pdb
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\obj\Debug\net6.0\EmployeeService.Core.csproj.AssemblyReference.cache
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\obj\Debug\net6.0\EmployeeService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\obj\Debug\net6.0\EmployeeService.Core.AssemblyInfoInputs.cache
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\obj\Debug\net6.0\EmployeeService.Core.AssemblyInfo.cs
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\obj\Debug\net6.0\EmployeeService.Core.csproj.CoreCompileInputs.cache
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\obj\Debug\net6.0\EmployeeService.Core.dll
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\obj\Debug\net6.0\refint\EmployeeService.Core.dll
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\obj\Debug\net6.0\EmployeeService.Core.pdb
+C:\Users\Aasif Ali\source\repos\EmployeeService\EmployeeService.Core\obj\Debug\net6.0\ref\EmployeeService.Core.dll
